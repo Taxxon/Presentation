@@ -1,0 +1,19 @@
+#txt {
+	font-family: 'Dancing Script', cursive;
+	margin-top: 250px;
+	margin-left: 300px;
+	margin-right: 300px;
+	color: white;
+}
+
+#rubrik {
+	margin-top: 50px;
+	font-family: 'Merriweather Sans', sans-serif;
+	text-align: center;
+	color: pink;
+}
+
+body {
+	background-image: url(Background1.jpg);
+}
+
